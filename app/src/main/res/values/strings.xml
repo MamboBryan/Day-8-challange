@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Day 8</string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="login_button">Login</string>
+    <string name="username_display">Username</string>
+    <string name="logout_button">Logout</string>
+    <string name="password_display">Login</string>
+</resources>
